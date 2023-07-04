@@ -1,0 +1,115 @@
+
+
+
+URL :D:\Daily\3-4\Static.har	PageName :Static
+
+
+
+
+
+1,Minify Html Issue:
+more empty lines found
+
+
+17,Issue in dns :
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/js/all.js
+https://d1kzkrik1x4od7.cloudfront.net/66/studio/assets/v1585044237881_778358574/logo.svg
+
+
+18,DNS issue in all calls:
+https://cdn-ap-ec.yottaa.net/5e78ead54f1bbf61680592ef/www.knudsen.com/v~4b.6/skavastream/studio/loadCSSModules
+https://d1kzkrik1x4od7.cloudfront.net/66/studio/assets/v1585044237881_778358574/logo.svg
+https://qoe-1.yottaa.net/log-nt/event
+https://eum.instana.io/eum.min.js
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://eum-red-saas.instana.io/
+
+
+Issue in File size:
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/sm/img/bg-meet-knudsen.jpeg->299726
+
+6,Issue in Js Compress
+
+https://db2c8u89pdczb.cloudfront.net/jquery/jquery/1.8.2/jquery.min.js
+
+
+37,Issue in Etag
+
+https://www.knudsen.com/meet-knudsen
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29&pageid=40&view=desktop&publishid=2213
+
+
+40,Issue in Connection Alive
+
+https://www.knudsen.com/meet-knudsen
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/3600b37f-2bf1-45f3-be3a-03365f16d9cb.woff2
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/2cde73fa-21c4-49b0-b880-9fe6c3dbec6a.woff2
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29&pageid=40&view=desktop&publishid=2213
+
+
+57,Issue in Html Cache
+
+https://www.knudsen.com/meet-knudsen
+
+
+62,Issue in X_Robots_Tag
+
+https://www.knudsen.com/meet-knudsen
+
+
+
+
+URL :D:\Daily\3-4\RLP.har	PageName :RLP
+
+
+
+
+
+1,Minify Html Issue:
+more empty lines found
+
+
+17,Issue in dns :
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/js/all.js
+https://d1kzkrik1x4od7.cloudfront.net/66/studio/assets/v1585044237881_778358574/logo.svg
+
+
+18,DNS issue in all calls:
+https://cdn-ap-ec.yottaa.net/5e78ead54f1bbf61680592ef/www.knudsen.com/v~4b.6/skavastream/studio/loadCSSModules
+https://d1kzkrik1x4od7.cloudfront.net/66/studio/assets/v1585044237881_778358574/logo.svg
+https://qoe-1.yottaa.net/log-nt/event
+https://eum.instana.io/eum.min.js
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://eum-red-saas.instana.io/
+
+
+Issue in File size:
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-baja-fish-tacos.jpeg->489392
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-smoothie-bowls.jpeg->434634
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-creamy-jalapeno-mango-salsa-dip.jpeg->422576
+
+6,Issue in Js Compress
+
+https://db2c8u89pdczb.cloudfront.net/jquery/jquery/1.8.2/jquery.min.js
+
+
+37,Issue in Etag
+
+https://www.knudsen.com/recipes/100197000001/recipes
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29,52&pageid=29_t&view=desktop&publishid=2213
+
+
+40,Issue in Connection Alive
+
+https://www.knudsen.com/recipes/100197000001/recipes
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/3600b37f-2bf1-45f3-be3a-03365f16d9cb.woff2
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/2cde73fa-21c4-49b0-b880-9fe6c3dbec6a.woff2
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29,52&pageid=29_t&view=desktop&publishid=2213
+
+
+62,Issue in X_Robots_Tag
+
+https://www.knudsen.com/recipes/100197000001/recipes
+

@@ -1,0 +1,354 @@
+
+
+
+URL :D:\Daily\3-4\Inspiration.har	PageName :Inspiration
+
+
+
+
+
+1,Minify Html Issue:
+more empty lines found
+
+
+17,Issue in dns :
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/js/all.js
+https://d1kzkrik1x4od7.cloudfront.net/66/studio/assets/v1585044237881_778358574/logo.svg
+
+
+18,DNS issue in all calls:
+https://d1kzkrik1x4od7.cloudfront.net/66/studio/assets/v1585044237881_778358574/logo.svg
+https://qoe-1.yottaa.net/log-nt/event
+https://eum.instana.io/eum.min.js
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://cdn-ap-ec.yottaa.net/5e78ead54f1bbf61680592ef/www.knudsen.com/v~4b.6/skavastream/studio/loadCSSModules
+https://eum-red-saas.instana.io/
+
+
+Issue in File size:
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/sm/img/bg-inspiration-delicious-starts-for-busy-mornings.jpeg->360812
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/sm/img/bg-inspiration-make-your-go-to-recipes-even-better.jpeg->435075
+
+6,Issue in Js Compress
+
+https://db2c8u89pdczb.cloudfront.net/jquery/jquery/1.8.2/jquery.min.js
+
+
+37,Issue in Etag
+
+https://www.knudsen.com/inspirations
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29&pageid=17_t&view=desktop&publishid=2213
+
+
+40,Issue in Connection Alive
+
+https://www.knudsen.com/inspirations
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/3600b37f-2bf1-45f3-be3a-03365f16d9cb.woff2
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/2cde73fa-21c4-49b0-b880-9fe6c3dbec6a.woff2
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29&pageid=17_t&view=desktop&publishid=2213
+
+
+62,Issue in X_Robots_Tag
+
+https://www.knudsen.com/inspirations
+
+
+
+
+URL :D:\Daily\3-4\Inspiration detail.har	PageName :Inspiration detail
+
+
+
+
+
+1,Minify Html Issue:
+more empty lines found
+
+
+17,Issue in dns :
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/js/all.js
+https://d1kzkrik1x4od7.cloudfront.net/66/studio/assets/v1585044237881_778358574/logo.svg
+
+
+18,DNS issue in all calls:
+https://cdn-ap-ec.yottaa.net/5e78ead54f1bbf61680592ef/www.knudsen.com/v~4b.6/skavastream/studio/loadCSSModules
+https://d1kzkrik1x4od7.cloudfront.net/66/studio/assets/v1585044237881_778358574/logo.svg
+https://qoe-1.yottaa.net/log-nt/event
+https://eum.instana.io/eum.min.js
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://eum-red-saas.instana.io/
+
+
+Issue in File size:
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/sm/img/bg-inspiration-delicious-starts-for-busy-mornings.jpeg->360813
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-inspiration-make-your-go-to-recipes-even-better.jpeg->435076
+
+6,Issue in Js Compress
+
+https://db2c8u89pdczb.cloudfront.net/jquery/jquery/1.8.2/jquery.min.js
+
+
+37,Issue in Etag
+
+https://www.knudsen.com/inspiration/100197300011/delicious-starts-for-busy-mornings?p=l
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29&pageid=16_t&view=desktop&publishid=2213
+
+
+40,Issue in Connection Alive
+
+https://www.knudsen.com/inspiration/100197300011/delicious-starts-for-busy-mornings?p=l
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/3600b37f-2bf1-45f3-be3a-03365f16d9cb.woff2
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/2cde73fa-21c4-49b0-b880-9fe6c3dbec6a.woff2
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29&pageid=16_t&view=desktop&publishid=2213
+
+
+62,Issue in X_Robots_Tag
+
+https://www.knudsen.com/inspiration/100197300011/delicious-starts-for-busy-mornings?p=l
+
+
+
+
+URL :D:\Daily\3-4\Home (1).har	PageName :Home (1)
+
+
+
+
+
+1,Minify Html Issue:
+more empty lines found
+
+
+17,Issue in dns :
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/js/all.js
+https://d1kzkrik1x4od7.cloudfront.net/7/studio/assets/v1584012640205_1572066902/prod-cottage-dbl-pineapple-home-2018.png
+https://d1kzkrik1x4od7.cloudfront.net/66/studio/assets/v1585044237881_778358574/logo.svg
+
+
+18,DNS issue in all calls:
+https://qoe-1.yottaa.net/log-nt/event
+https://eum.instana.io/eum.min.js
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://d1kzkrik1x4od7.cloudfront.net/7/studio/assets/v1584012640205_1572066902/prod-cottage-dbl-pineapple-home-2018.png
+https://cdn-ap-ec.yottaa.net/5e78ead54f1bbf61680592ef/www.knudsen.com/v~4b.6/skavastream/studio/loadCSSModules
+https://eum-red-saas.instana.io/
+
+
+Issue in File size:
+https://d3gqeq5wcctqxw.cloudfront.net/95/studio/assets/v1582892765567_6070995/bg-recipe-baja-fish-tacos_mob.jpg->154659
+https://d1kzkrik1x4od7.cloudfront.net/7/studio/assets/v1584012640205_1572066902/prod-cottage-dbl-pineapple-home-2018.png->117146
+
+6,Issue in Js Compress
+
+https://db2c8u89pdczb.cloudfront.net/jquery/jquery/1.8.2/jquery.min.js
+
+
+37,Issue in Etag
+
+https://www.knudsen.com/
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29,52&pageid=2_t&view=desktop&publishid=2213
+
+
+40,Issue in Connection Alive
+
+https://www.knudsen.com/
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/2cde73fa-21c4-49b0-b880-9fe6c3dbec6a.woff2
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/3600b37f-2bf1-45f3-be3a-03365f16d9cb.woff2
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29,52&pageid=2_t&view=desktop&publishid=2213
+
+
+57,Issue in Html Cache
+
+https://www.knudsen.com/
+
+
+62,Issue in X_Robots_Tag
+
+https://www.knudsen.com/
+
+
+
+
+URL :D:\Daily\3-4\Static.har	PageName :Static
+
+
+
+
+
+1,Minify Html Issue:
+more empty lines found
+
+
+17,Issue in dns :
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/js/all.js
+https://d1kzkrik1x4od7.cloudfront.net/66/studio/assets/v1585044237881_778358574/logo.svg
+
+
+18,DNS issue in all calls:
+https://cdn-ap-ec.yottaa.net/5e78ead54f1bbf61680592ef/www.knudsen.com/v~4b.6/skavastream/studio/loadCSSModules
+https://d1kzkrik1x4od7.cloudfront.net/66/studio/assets/v1585044237881_778358574/logo.svg
+https://qoe-1.yottaa.net/log-nt/event
+https://eum.instana.io/eum.min.js
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://eum-red-saas.instana.io/
+
+
+Issue in File size:
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/sm/img/bg-meet-knudsen.jpeg->299726
+
+6,Issue in Js Compress
+
+https://db2c8u89pdczb.cloudfront.net/jquery/jquery/1.8.2/jquery.min.js
+
+
+37,Issue in Etag
+
+https://www.knudsen.com/meet-knudsen
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29&pageid=40&view=desktop&publishid=2213
+
+
+40,Issue in Connection Alive
+
+https://www.knudsen.com/meet-knudsen
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/3600b37f-2bf1-45f3-be3a-03365f16d9cb.woff2
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/2cde73fa-21c4-49b0-b880-9fe6c3dbec6a.woff2
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29&pageid=40&view=desktop&publishid=2213
+
+
+57,Issue in Html Cache
+
+https://www.knudsen.com/meet-knudsen
+
+
+62,Issue in X_Robots_Tag
+
+https://www.knudsen.com/meet-knudsen
+
+
+
+
+URL :D:\Daily\3-4\RLP.har	PageName :RLP
+
+
+
+
+
+1,Minify Html Issue:
+more empty lines found
+
+
+17,Issue in dns :
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/js/all.js
+https://d1kzkrik1x4od7.cloudfront.net/66/studio/assets/v1585044237881_778358574/logo.svg
+
+
+18,DNS issue in all calls:
+https://cdn-ap-ec.yottaa.net/5e78ead54f1bbf61680592ef/www.knudsen.com/v~4b.6/skavastream/studio/loadCSSModules
+https://d1kzkrik1x4od7.cloudfront.net/66/studio/assets/v1585044237881_778358574/logo.svg
+https://qoe-1.yottaa.net/log-nt/event
+https://eum.instana.io/eum.min.js
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://eum-red-saas.instana.io/
+
+
+Issue in File size:
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-baja-fish-tacos.jpeg->489392
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-smoothie-bowls.jpeg->434634
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-creamy-jalapeno-mango-salsa-dip.jpeg->422576
+
+6,Issue in Js Compress
+
+https://db2c8u89pdczb.cloudfront.net/jquery/jquery/1.8.2/jquery.min.js
+
+
+37,Issue in Etag
+
+https://www.knudsen.com/recipes/100197000001/recipes
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29,52&pageid=29_t&view=desktop&publishid=2213
+
+
+40,Issue in Connection Alive
+
+https://www.knudsen.com/recipes/100197000001/recipes
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/3600b37f-2bf1-45f3-be3a-03365f16d9cb.woff2
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/2cde73fa-21c4-49b0-b880-9fe6c3dbec6a.woff2
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29,52&pageid=29_t&view=desktop&publishid=2213
+
+
+62,Issue in X_Robots_Tag
+
+https://www.knudsen.com/recipes/100197000001/recipes
+
+
+
+
+URL :D:\Daily\3-4\RDP.har	PageName :RDP
+
+
+
+
+
+1,Minify Html Issue:
+more empty lines found
+
+
+17,Issue in dns :
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/js/all.js
+https://d1kzkrik1x4od7.cloudfront.net/66/studio/assets/v1585044237881_778358574/logo.svg
+
+
+18,DNS issue in all calls:
+https://d1kzkrik1x4od7.cloudfront.net/66/studio/assets/v1585044237881_778358574/logo.svg
+https://qoe-1.yottaa.net/log-nt/event
+https://eum.instana.io/eum.min.js
+https://cdnassets-studio.skavaone.com/catalog/v201803160413p-min/css/all.css
+https://cdn-ap-ec.yottaa.net/5e78ead54f1bbf61680592ef/www.knudsen.com/v~4b.6/skavastream/studio/loadCSSModules
+https://eum-red-saas.instana.io/
+
+
+Issue in File size:
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-baja-fish-tacos.jpeg->489391
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-smoothie-bowls.jpeg->434625
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-creamy-jalapeno-mango-salsa-dip.jpeg->422575
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-fig-and-walnut-coffee-cake.jpeg->454162
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-chicken-spinach-and-chipotle-enchilada-bake.jpeg->485738
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-creamy-garlic-and-kale-mashed-potatoes.jpeg->378137
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-curried-chicken-appetizer-bites.jpeg->452531
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-curried-chicken-appetizer-bites.jpeg->452531
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-smoothie-bowls.jpeg->434634
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-creamy-garlic-and-kale-mashed-potatoes.jpeg->378139
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-baja-fish-tacos.jpeg->489393
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-creamy-jalapeno-mango-salsa-dip.jpeg->422576
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-fig-and-walnut-coffee-cake.jpeg->454163
+https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/knudsen/recipe/img/bg-recipe-chicken-spinach-and-chipotle-enchilada-bake.jpeg->485738
+
+6,Issue in Js Compress
+
+https://db2c8u89pdczb.cloudfront.net/jquery/jquery/1.8.2/jquery.min.js
+
+
+37,Issue in Etag
+
+https://www.knudsen.com/recipe/100197100004/quick-and-easy-baja-fish-tacos?p=r
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29,50&pageid=38_t&view=desktop&publishid=2213
+
+
+40,Issue in Connection Alive
+
+https://www.knudsen.com/recipe/100197100004/quick-and-easy-baja-fish-tacos?p=r
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/3600b37f-2bf1-45f3-be3a-03365f16d9cb.woff2
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003310734/fonts/2cde73fa-21c4-49b0-b880-9fe6c3dbec6a.woff2
+https://www.knudsen.com/skavastream/studio/loadJSModules?campaignid=18&env=prod&reshash=3c83129cb5f4145aab2b4b19a0ddd199&custom=51,29,50&pageid=38_t&view=desktop&publishid=2213
+https://d167y3o4ydtmfg.cloudfront.net/kraftbrands/knudsen/v202003240434/fonts/423db818-6ba7-4789-995f-1f2d7f6018df.woff2
+
+
+62,Issue in X_Robots_Tag
+
+https://www.knudsen.com/recipe/100197100004/quick-and-easy-baja-fish-tacos?p=r
+
